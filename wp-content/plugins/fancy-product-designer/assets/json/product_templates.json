@@ -1,0 +1,132 @@
+{
+	"shirts": {
+		"name": "T-Shirts",
+		"purchase_url": "http://google.de",
+		"templates": [
+			{
+				"name": "T-Shirt Men Standard",
+				"images": [
+					"/assets/img/product-templates/preview_men_standard_front.png",
+					"/assets/img/product-templates/preview_women_standard_shirt_front.png",
+					"/assets/img/product-templates/preview_cap_front.png"
+				],
+				"free": true,
+				"file": "iphone_7_case.zip"
+			},
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_women_standard_shirt_front.png",
+				"file": "test.zip"
+			},
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_cap_front.png",
+				"file": "shirt_men_standard"
+			},
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_iPhone7_cam.png",
+				"file": "shirt_men_standard"
+			},
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_men_vneck_front.png",
+				"file": "shirt_men_standard"
+			},
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_pillow_front.png",
+				"file": "shirt_men_standard"
+			},
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_women_long_shirt_front.png",
+				"file": "shirt_men_standard"
+			}
+		]
+	},
+	"hoodies_sweaters": {
+		"name": "Hoodies & Sweaters",
+		"purchase_url": "http://google.de",
+		"templates": [
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_pillow_front.png",
+				"free": true,
+				"file": "shirt_men_standard"
+			}
+		]
+	},
+	"caps_hats": {
+		"name": "Caps & Hats",
+		"purchase_url": "http://google.de",
+		"templates": [
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_pillow_front.png",
+				"free": true,
+				"file": "shirt_men_standard"
+			}
+		]
+	},
+	"phone-cases": {
+		"name": "Phone Cases",
+		"purchase_url": "http://google.de",
+		"templates": [
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_pillow_front.png",
+				"free": true,
+				"file": "shirt_men_standard"
+			}
+		]
+	},
+	"business_cards": {
+		"name": "Business Cards",
+		"purchase_url": "http://google.de",
+		"templates": [
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_pillow_front.png",
+				"free": true,
+				"file": "shirt_men_standard"
+			}
+		]
+	},
+	"Posters": {
+		"name": "Posters",
+		"purchase_url": null,
+		"templates": [
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_pillow_front.png",
+				"free": true,
+				"file": "shirt_men_standard"
+			}
+		]
+	},
+	"flyers": {
+		"name": "Flyers",
+		"purchase_url": "http://google.de",
+		"templates": [
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_pillow_front.png",
+				"free": true,
+				"file": "shirt_men_standard"
+			}
+		]
+	},
+	"merchandise": {
+		"name": "Merchandise",
+		"purchase_url": "http://google.de",
+		"templates": [
+			{
+				"name": "T-Shirt Men Standard",
+				"images": "/assets/img/product-templates/preview_pillow_front.png",
+				"free": true,
+				"file": "shirt_men_standard"
+			}
+		]
+	}
+}
